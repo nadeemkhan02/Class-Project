@@ -1,0 +1,118 @@
+[
+    {
+        "no": "1",
+        "ChapterName": "PHYSICAL WORLD"
+    },
+    {
+        "no": "2",
+        "ChapterName": "UNITS AND MEASUREMENTS"
+    },
+    {
+        "no": "3",
+        "ChapterName": "MOTION IN A STRAIGHT LINE"
+    },
+    {
+        "no": "4",
+        "ChapterName": "MOTION IN A PLANE"
+    },
+    {
+        "no": "5",
+        "ChapterName": "LAWS OF MOTION"
+    },
+    {
+        "no": "6",
+        "ChapterName": "WORK, ENERGY AND POWER"
+    },
+    {
+        "no": "7",
+        "ChapterName": "SYSTEM OF PARTICLES AND ROTATIONAL MOTION"
+    },
+    {
+        "no": "8",
+        "ChapterName": "GRAVITATION"
+    },
+    {
+        "no": "9",
+        "ChapterName": "MECHANICAL PROPERTIES OF SOLIDS"
+    },
+    {
+        "no": "10",
+        "ChapterName": "MECHANICAL PROPERTIES OF FLUIDS"
+    },
+    {
+        "no": "11",
+        "ChapterName": "THERMAL PROPERTIES OF MATTER"
+    },
+    {
+        "no": "12",
+        "ChapterName": "THERMODYNAMICS"
+    },
+    {
+        "no": "13",
+        "ChapterName": "KINETIC THEORY"
+    },
+    {
+        "no": "14",
+        "ChapterName": "OSCILLATIONS"
+    },
+    {
+        "no": "15",
+        "ChapterName": "WAVES"
+    },
+    {
+        "no": "16",
+        "ChapterName": "ELECTRIC CHARGES AND FIELDS"
+    },
+    {
+        "no": "17",
+        "ChapterName": "ELECTROSTATIC POTENTIAL AND CAPACITANCE"
+    },
+    {
+        "no": "18",
+        "ChapterName": "CURRENT ELECTRICITY"
+    },
+    {
+        "no": "19",
+        "ChapterName": "MOVING CHARGES AND MAGNETISM"
+    },
+    {
+        "no": "20",
+        "ChapterName": "MAGNETISM AND MATTER"
+    },
+    {
+        "no": "21",
+        "ChapterName": "ELECTROMAGNETIC INDUCTION"
+    },
+    {
+        "no": "22",
+        "ChapterName": "ALTERNATING CURRENT"
+    },
+    {
+        "no": "23",
+        "ChapterName": "ELECTROMAGNETIC WAVES"
+    },
+    {
+        "no": "24",
+        "ChapterName": "RAY OPTICS AND OPTICAL INSTRUMENTS"
+    },
+    {
+        "no": "25",
+        "ChapterName": "WAVE OPTICS"
+    },
+    {
+        "no": "26",
+        "ChapterName": "DUAL NATURE OF RADIATION AND MATTER"
+    },
+    {
+        "no": "27",
+        "ChapterName": "ATOMS"
+    },
+    {
+        "no": "28",
+        "ChapterName": "NUCLEI"
+    },
+    {
+        "no": "29",
+        "ChapterName": "SEMICONDUCTOR"
+    }
+]

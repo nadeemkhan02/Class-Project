@@ -1,0 +1,578 @@
+[
+    {
+    "S": {
+    "N": "1"
+    },
+    "Chapter Name": "The Living World"
+    },
+    {
+    "S": {
+    "N": "2"
+    },
+    "Chapter Name": "Biological Classification"
+    },
+    {
+    "S": {
+    "N": "3"
+    },
+    "Chapter Name": "Plant Kingdom"
+    },
+    {
+    "S": {
+    "N": "4"
+    },
+    "Chapter Name": "Animal Kingdom"
+    },
+    {
+    "S": {
+    "N": "5"
+    },
+    "Chapter Name": "Morphology of Flowering Plants"
+    },
+    {
+    "S": {
+    "N": "6"
+    },
+    "Chapter Name": "Anatomy of Flowering Plants"
+    },
+    {
+    "S": {
+    "N": "7"
+    },
+    "Chapter Name": "Structural Organisation in Animals"
+    },
+    {
+    "S": {
+    "N": "8"
+    },
+    "Chapter Name": "Cell : The Unit of Life"
+    },
+    {
+    "S": {
+    "N": "9"
+    },
+    "Chapter Name": "Biomolecules"
+    },
+    {
+    "S": {
+    "N": "10"
+    },
+    "Chapter Name": "Cell Cycle and Cell Division"
+    },
+    {
+    "S": {
+    "N": "11"
+    },
+    "Chapter Name": "Transport in Plants"
+    },
+    {
+    "S": {
+    "N": "12"
+    },
+    "Chapter Name": "Mineral Nutrition"
+    },
+    {
+    "S": {
+    "N": "13"
+    },
+    "Chapter Name": "Photosynthesis in Higher Plants"
+    },
+    {
+    "S": {
+    "N": "14"
+    },
+    "Chapter Name": "Respiration in Plants"
+    },
+    {
+    "S": {
+    "N": "15"
+    },
+    "Chapter Name": "Plant Growth and Development"
+    },
+    {
+    "S": {
+    "N": "16"
+    },
+    "Chapter Name": "Digestion and Absorption"
+    },
+    {
+    "S": {
+    "N": "17"
+    },
+    "Chapter Name": "Breathing and Exchange of Gases"
+    },
+    {
+    "S": {
+    "N": "18"
+    },
+    "Chapter Name": "Body Fluids and Circulation"
+    },
+    {
+    "S": {
+    "N": "19"
+    },
+    "Chapter Name": "Excretory Products and their Elimination"
+    },
+    {
+    "S": {
+    "N": "20"
+    },
+    "Chapter Name": "Locomotion and Movement"
+    },
+    {
+    "S": {
+    "N": "21"
+    },
+    "Chapter Name": "Neural Control and Coordination"
+    },
+    {
+    "S": {
+    "N": "22"
+    },
+    "Chapter Name": "Chemical Coordination and Integration"
+    },
+    {
+    "S": {
+    "N": "23"
+    },
+    "Chapter Name": "Reproduction in Organisms"
+    },
+    {
+    "S": {
+    "N": "24"
+    },
+    "Chapter Name": "Sexual Reproduction in Flowering Plants"
+    },
+    {
+    "S": {
+    "N": "25"
+    },
+    "Chapter Name": "Human Reproduction"
+    },
+    {
+    "S": {
+    "N": "26"
+    },
+    "Chapter Name": "Reproductive Health"
+    },
+    {
+    "S": {
+    "N": "27"
+    },
+    "Chapter Name": "Principles of Inheritance and Variation"
+    },
+    {
+    "S": {
+    "N": "28"
+    },
+    "Chapter Name": "Molecular Basis of Inheritance"
+    },
+    {
+    "S": {
+    "N": "29"
+    },
+    "Chapter Name": "Evolution"
+    },
+    {
+    "S": {
+    "N": "30"
+    },
+    "Chapter Name": "Human Health and Disease"
+    },
+    {
+    "S": {
+    "N": "31"
+    },
+    "Chapter Name": "Strategies for Enhancement in Food Production"
+    },
+    {
+    "S": {
+    "N": "32"
+    },
+    "Chapter Name": "Microbes in Human Welfare"
+    },
+    {
+    "S": {
+    "N": "33"
+    },
+    "Chapter Name": "Biotechnology: Principles and Processes"
+    },
+    {
+    "S": {
+    "N": "34"
+    },
+    "Chapter Name": "Biotechnology and its Applications"
+    },
+    {
+    "S": {
+    "N": "35"
+    },
+    "Chapter Name": "Organisms and Populations"
+    },
+    {
+    "S": {
+    "N": "36"
+    },
+    "Chapter Name": "Ecosystem"
+    },
+    {
+    "S": {
+    "N": "37"
+    },
+    "Chapter Name": "Biodiversity & Conservation"
+    },
+    {
+    "S": {
+    "N": "38"
+    },
+    "Chapter Name": "Environmental Issues"
+    },
+    {
+    "S": {
+    "N": "39"
+    },
+    "Chapter Name": "Structure of Atom"
+    },
+    {
+    "S": {
+    "N": "40"
+    },
+    "Chapter Name": "Classification of Elements and Periodicity in Properties"
+    },
+    {
+    "S": {
+    "N": "41"
+    },
+    "Chapter Name": "Chemical Bonding and Molecular Structure"
+    },
+    {
+    "S": {
+    "N": "42"
+    },
+    "Chapter Name": "States of Matter"
+    },
+    {
+    "S": {
+    "N": "43"
+    },
+    "Chapter Name": "Thermodynamics"
+    },
+    {
+    "S": {
+    "N": "44"
+    },
+    "Chapter Name": "Equilibrium"
+    },
+    {
+    "S": {
+    "N": "45"
+    },
+    "Chapter Name": "Redox Reactions"
+    },
+    {
+    "S": {
+    "N": "46"
+    },
+    "Chapter Name": "Hydrogen"
+    },
+    {
+    "S": {
+    "N": "47"
+    },
+    "Chapter Name": "The s-Block Elements"
+    },
+    {
+    "S": {
+    "N": "48"
+    },
+    "Chapter Name": "The p-Block Elements"
+    },
+    {
+    "S": {
+    "N": "49"
+    },
+    "Chapter Name": "Organic Chemistry"
+    },
+    {
+    "S": {
+    "N": "50"
+    },
+    "Chapter Name": "Hydrocarbons"
+    },
+    {
+    "S": {
+    "N": "51"
+    },
+    "Chapter Name": "Environmental Chemistry"
+    },
+    {
+    "S": {
+    "N": "52"
+    },
+    "Chapter Name": "The Solid State"
+    },
+    {
+    "S": {
+    "N": "53"
+    },
+    "Chapter Name": "Solutions"
+    },
+    {
+    "S": {
+    "N": "54"
+    },
+    "Chapter Name": "Electrochemistry"
+    },
+    {
+    "S": {
+    "N": "55"
+    },
+    "Chapter Name": "Chemical Kinetics"
+    },
+    {
+    "S": {
+    "N": "56"
+    },
+    "Chapter Name": "Surface Chemistry"
+    },
+    {
+    "S": {
+    "N": "57"
+    },
+    "Chapter Name": "General Principles and Processes of Isolation of Elements"
+    },
+    {
+    "S": {
+    "N": "58"
+    },
+    "Chapter Name": "The d-and f-Block Elements"
+    },
+    {
+    "S": {
+    "N": "59"
+    },
+    "Chapter Name": "Coordination Compounds"
+    },
+    {
+    "S": {
+    "N": "60"
+    },
+    "Chapter Name": "Haloalkanes and Haloarenes"
+    },
+    {
+    "S": {
+    "N": "61"
+    },
+    "Chapter Name": "Alcohols, Phenols and Ethers"
+    },
+    {
+    "S": {
+    "N": "62"
+    },
+    "Chapter Name": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+    "S": {
+    "N": "63"
+    },
+    "Chapter Name": "Amines"
+    },
+    {
+    "S": {
+    "N": "64"
+    },
+    "Chapter Name": "Biomolecules"
+    },
+    {
+    "S": {
+    "N": "65"
+    },
+    "Chapter Name": "Polymers"
+    },
+    {
+    "S": {
+    "N": "66"
+    },
+    "Chapter Name": "Chemistry in Everyday Life"
+    },
+    {
+    "S": {
+    "N": "67"
+    },
+    "Chapter Name": "Some Basic Concepts of Chemistry"
+    },
+    {
+    "S": {
+    "N": "68"
+    },
+    "Chapter Name": "PHYSICAL WORLD"
+    },
+    {
+    "S": {
+    "N": "69"
+    },
+    "Chapter Name": "UNITS AND MEASUREMENTS"
+    },
+    {
+    "S": {
+    "N": "70"
+    },
+    "Chapter Name": "MOTION IN A STRAIGHT LINE"
+    },
+    {
+    "S": {
+    "N": "71"
+    },
+    "Chapter Name": "MOTION IN A PLANE"
+    },
+    {
+    "S": {
+    "N": "72"
+    },
+    "Chapter Name": "LAWS OF MOTION"
+    },
+    {
+    "S": {
+    "N": "73"
+    },
+    "Chapter Name": "WORK, ENERGY AND POWER"
+    },
+    {
+    "S": {
+    "N": "74"
+    },
+    "Chapter Name": "SYSTEM OF PARTICLES AND ROTATIONAL MOTION"
+    },
+    {
+    "S": {
+    "N": "75"
+    },
+    "Chapter Name": "GRAVITATION"
+    },
+    {
+    "S": {
+    "N": "76"
+    },
+    "Chapter Name": "MECHANICAL PROPERTIES OF SOLIDS"
+    },
+    {
+    "S": {
+    "N": "77"
+    },
+    "Chapter Name": "MECHANICAL PROPERTIES OF FLUIDS"
+    },
+    {
+    "S": {
+    "N": "78"
+    },
+    "Chapter Name": "THERMAL PROPERTIES OF MATTER"
+    },
+    {
+    "S": {
+    "N": "79"
+    },
+    "Chapter Name": "THERMODYNAMICS"
+    },
+    {
+    "S": {
+    "N": "80"
+    },
+    "Chapter Name": "KINETIC THEORY"
+    },
+    {
+    "S": {
+    "N": "81"
+    },
+    "Chapter Name": "OSCILLATIONS"
+    },
+    {
+    "S": {
+    "N": "82"
+    },
+    "Chapter Name": "WAVES"
+    },
+    {
+    "S": {
+    "N": "83"
+    },
+    "Chapter Name": "ELECTRIC CHARGES AND FIELDS"
+    },
+    {
+    "S": {
+    "N": "84"
+    },
+    "Chapter Name": "ELECTROSTATIC POTENTIAL AND CAPACITANCE"
+    },
+    {
+    "S": {
+    "N": "85"
+    },
+    "Chapter Name": "CURRENT ELECTRICITY"
+    },
+    {
+    "S": {
+    "N": "86"
+    },
+    "Chapter Name": "MOVING CHARGES AND MAGNETISM"
+    },
+    {
+    "S": {
+    "N": "87"
+    },
+    "Chapter Name": "MAGNETISM AND MATTER"
+    },
+    {
+    "S": {
+    "N": "88"
+    },
+    "Chapter Name": "ELECTROMAGNETIC INDUCTION"
+    },
+    {
+    "S": {
+    "N": "89"
+    },
+    "Chapter Name": "ALTERNATING CURRENT"
+    },
+    {
+    "S": {
+    "N": "90"
+    },
+    "Chapter Name": "ELECTROMAGNETIC WAVES"
+    },
+    {
+    "S": {
+    "N": "91"
+    },
+    "Chapter Name": "RAY OPTICS AND OPTICAL INSTRUMENTS"
+    },
+    {
+    "S": {
+    "N": "92"
+    },
+    "Chapter Name": "WAVE OPTICS"
+    },
+    {
+    "S": {
+    "N": "93"
+    },
+    "Chapter Name": "DUAL NATURE OF RADIATION AND MATTER"
+    },
+    {
+    "S": {
+    "N": "94"
+    },
+    "Chapter Name": "ATOMS"
+    },
+    {
+    "S": {
+    "N": "95"
+    },
+    "Chapter Name": "NUCLEI"
+    },
+    {
+    "S": {
+    "N": "96"
+    },
+    "Chapter Name": "SEMICONDUCTOR"
+    }
+    ]
