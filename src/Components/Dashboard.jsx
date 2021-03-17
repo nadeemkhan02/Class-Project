@@ -1,9 +1,6 @@
 import React from "react";
 import AllInOne from "./AllInOne";
-import Chapter from "./Chapter.jsx";
 import MainNavBar from "./MainNavBar";
-
-
 
 const Dashboard = (props) => {
   const handleLogout = () => {
@@ -13,9 +10,7 @@ const Dashboard = (props) => {
     return ( 
         <>
           <MainNavBar logoutHandle = {handleLogout} />
-            <AllInOne />
-           <Chapter /> 
-          
+          <AllInOne />
         </>
      );
 }

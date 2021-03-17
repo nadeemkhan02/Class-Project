@@ -8,8 +8,8 @@ const Pages = (props) => {
   const pages = _.range(1, pageCounte+1)
   return (
     <>
-      <nav>
-        <ul className="pagination">  
+      <nav style={{display:"inline-block"}}>
+        <ul  className="pagination">  
         {
           pages.map(page=>(
             <li style={{cursor:"pointer"}} key={page} className={currentPage===page?"page-item active":"page-item"}>

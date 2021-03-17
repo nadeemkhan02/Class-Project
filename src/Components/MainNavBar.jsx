@@ -2,12 +2,12 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.js";
 import "../index.css";
-import { Link } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 const MainNavBar = (props) => {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <nav id="MainNavBar" class="navbar navbar-expand-lg navbar-light bg-light">
         <button onClick={props.logoutHandle} className="btn btn-danger">
           Logout
         </button>
@@ -25,9 +25,9 @@ const MainNavBar = (props) => {
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
             <li class="nav-item active">
-              <Link class="nav-link" data-toggle="modal" data-target="#exampleModalCenter2">
+              <NavLink to="/dashboard" class="nav-link" data-toggle="modal" data-target="#exampleModalCenter2">
                 All in one
-              </Link>
+              </NavLink>
             </li>
             <li class="nav-item active">
               <Link class="nav-link" to="/dashboard">
@@ -35,14 +35,14 @@ const MainNavBar = (props) => {
               </Link>
             </li>
             <li class="nav-item active">
-              <Link class="nav-link" to="/fixedformate">
+              <Link class="nav-link" to="/dashboard">
                 Fixed-Format
               </Link>
             </li>
             <li class="nav-item active">
-              <Link class="nav-link" to="/dashboard">
+              <NavLink  class="nav-link" to="/customizedformat">
                 Customized-Format
-              </Link>
+              </NavLink>
             </li>
             <li class="nav-item active">
               <Link class="nav-link" to="/dashboard">

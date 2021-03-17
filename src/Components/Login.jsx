@@ -10,6 +10,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap.bundle.js";
 import "../index.css";
 import { Link } from "react-router-dom";
+import Joi from "joi-browser";
 
 const Login = () => {
   useEffect(()=>{
@@ -17,8 +18,25 @@ const Login = () => {
   },[])
 
   const [data, setData] = useState({ username: "", password: "" });
+  const [error, setError] = useState({})
 
+  // Joi validation shema
+
+  const Schema={
+    username:Joi.string().required(),
+    password:Joi.string().required()
+  }
+
+  const validateProperty = ({name, value}) =>{
+    const obj = {[name] : value}
+    const schema = {[name] : Schema[name]}
+    const {error} = Joi.validate(obj, schema);
+    return error ? error.details[0].message : null;
+  }
   const handleChange = ({ currentTarget: input }) => {
+    const errorMessage = validateProperty(input);
+    if (errorMessage)  error[input.name] = errorMessage;
+    else delete error[input.name];
     const dummyData = { ...data };
     dummyData[input.name] = input.value;
     setData(dummyData);
@@ -58,6 +76,7 @@ const Login = () => {
                 aria-describedby="emailHelp"
                 placeholder="Enter Username"
               />
+              {error && error.username && <div style={{marginTop:"0px"}} className="alert alert-danger ">{error.username}</div>}
             </div>
             <div className="form-group">
               <label forHtml="password">Password</label>
@@ -70,9 +89,10 @@ const Login = () => {
                 id="password"
                 placeholder="Enter Password"
               />
+              {error && error.password && <div style={{marginTop:"0px"}} className="alert alert-danger ">{error.password}</div>}
             </div>
+            
             <button
-              disabled={!data.username}
               id="submit"
               type="submit"  
               className="btn btn-success"
